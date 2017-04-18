@@ -1,6 +1,7 @@
 # HELLO
 This is my blog, it will be updated. One day. :)
 Meanwhile, you can check my <a href="https://github.com/erlikn">github repository</a> and/or <a href="http://www.site.uottawa.ca/~fnowr010/">my web-page</a>.
+
 <!--
 ## Welcome to GitHub Pages
 
