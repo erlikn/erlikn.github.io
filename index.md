@@ -13,6 +13,7 @@ My name is <strong>Erlik</strong> and I am a Senior Deep Learning Scientist at <
 My primary research interests are in machine learning and computer vision. More specifically, deep learning, perception, localization and digital maps for self-driving cars. Our goal is to realize the promise of self-driving cars.
 
 <section id="Experience">
+<br>
 <div>
 	<header><h2>Experience</h2></header>
 	<table>
@@ -61,6 +62,7 @@ My primary research interests are in machine learning and computer vision. More 
 </section>
 
 <section id="Publications">
+<br>
 <div>
 	<header><h2>Publications</h2></header>
 	<table>
