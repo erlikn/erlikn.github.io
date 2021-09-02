@@ -16,7 +16,7 @@ My primary research interests are in machine learning and computer vision. More 
 <br>
 <div>
 	<header><h2>Experience</h2></header>
-	<table>
+	<table style="width: 100%;">
 		<tr>
 			<td>
 			<h6 style="margin-top:6pt">
@@ -65,7 +65,7 @@ My primary research interests are in machine learning and computer vision. More 
 <br>
 <div>
 	<header><h2>Publications</h2></header>
-	<table>
+	<table style="width: 100%;">
 		<tr>
 			<td>
 			<h6 style="margin-top:6pt">
