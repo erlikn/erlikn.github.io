@@ -12,49 +12,53 @@ My name is <strong>Erlik</strong> and I am a Senior Deep Learning Scientist at <
 
 My primary research interests are in machine learning and computer vision. More specifically, deep learning, perception, localization and digital maps for self-driving cars. Our goal is to realize the promise of self-driving cars.
 
-<section id="Experience">
 <br>
 <div>
 	<header><h2>Experience</h2></header>
 	<table style="width: 100%;">
 		<tr>
 			<td>
-			<h6 style="margin-top:6pt">
+			<strong>
 			<a href="https://www.smatstraffic.com/">SMATS Traffic Solutions</a>
-			</h6>
-			<p style="font-size:80%; line-height:120%">
-			<strong>Research Partnership
+			</strong>
+			<p style="font-size:80%; line-height:100%">
+			<strong>Research Partnership</strong>
 			<br>
-			Object Detection, Deep Learning, Visual & Thermal Processing</strong>
-			<br>
-			Ottawa, Ontario, Canada, 2018
-			</p>
+			Object Detection, Deep Learning, Visual & Thermal Processing
+			</p>	
+			</td>
+			<td>
+			Ottawa, Ontario,<br> Canada, 2018
 			</td>
 		</tr>
 		<tr>
 			<td>
-			<h6 style="margin-top:6pt">
+			<strong>
 			<a href="http://www.mbrdna.com/">Mercedes-Benz Research & Development North America (MBRDNA)</a>
-			</h6>
-			<p style="font-size:80%; line-height:120%">
-			<strong>Autonomous Driving Research Intern
+			</strong>
+			<p style="font-size:80%; line-height:100%">
+			<strong>Autonomous Driving Research Intern</strong>
 			<br>
-			Environment Perception, Localization and Mapping</strong>
-			<br>
-			Sunnyvale, California, USA, 2015~2016
+			Environment Perception, Localization and Mapping
 			</p>
+			</td>
+			<td>
+			Sunnyvale, California,<br> USA, 2015~2016
 			</td>
 		</tr>
 		<tr>
 			<td>
-			<h6 style="margin-top:6pt">
+			<strong>
 			GestureLogic Inc.
-			</h6>
+			</strong>
 			<p style="font-size:80%; line-height:120%">
 			<strong>Machine Intelligence Research Intern</strong>
 			<br>
-			Ottawa, Ontario, Canada, 2014
+			Machine Learning, ECG, EMG
 			</p>
+			</td>
+			<td>
+			Ottawa, Ontario,<br> Canada, 2014
 			</td>
 		</tr>
 	</table>
