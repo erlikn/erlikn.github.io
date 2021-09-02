@@ -20,12 +20,10 @@ My primary research interests are in machine learning and computer vision. More 
 			<td>
 			<strong>
 			<a href="https://www.smatstraffic.com/">SMATS Traffic Solutions</a>
-			</strong>
-			<p style="font-size:80%; line-height:100%">
-			<strong>Research Partnership</strong>
+			<br>
+			Research Partnership</strong>
 			<br>
 			Object Detection, Deep Learning, Visual & Thermal Processing
-			</p>	
 			</td>
 			<td>
 			Ottawa, Ontario,<br> Canada, 2018
@@ -35,12 +33,10 @@ My primary research interests are in machine learning and computer vision. More 
 			<td>
 			<strong>
 			<a href="http://www.mbrdna.com/">Mercedes-Benz Research & Development North America (MBRDNA)</a>
-			</strong>
-			<p style="font-size:80%; line-height:100%">
-			<strong>Autonomous Driving Research Intern</strong>
+			<br>
+			Autonomous Driving Research Intern</strong>
 			<br>
 			Environment Perception, Localization and Mapping
-			</p>
 			</td>
 			<td>
 			Sunnyvale, California,<br> USA, 2015~2016
@@ -50,12 +46,10 @@ My primary research interests are in machine learning and computer vision. More 
 			<td>
 			<strong>
 			GestureLogic Inc.
-			</strong>
-			<p style="font-size:80%; line-height:120%">
-			<strong>Machine Intelligence Research Intern</strong>
+			<br>
+			Machine Intelligence Research Intern</strong>
 			<br>
 			Machine Learning, ECG, EMG
-			</p>
 			</td>
 			<td>
 			Ottawa, Ontario,<br> Canada, 2014
