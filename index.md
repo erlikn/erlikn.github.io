@@ -1,6 +1,22 @@
+<!--
 # HELLO
 This is my blog, it will be updated. One day. :)
 Meanwhile, you can check my <a href="https://github.com/erlikn">github repository</a> and/or <a href="http://www.site.uottawa.ca/~fnowr010/">my web-page</a>.
+-->
+
+
+<html>
+  <head>
+		<title>Farzan Erlik Nowruzi, Ph.D. Candidate</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://html5up.net/prologue/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+</html>
+
 
 <!--
 ## Welcome to GitHub Pages
