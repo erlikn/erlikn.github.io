@@ -103,7 +103,7 @@ My primary research interests are in machine learning and computer vision. More 
                         TechReport 2016 @ MBRDNA
                         </p>
                         </td>
-		tr>
+		</tr>
 		<tr>
                         <td>
                         <h6 style="margin-top:6pt">
@@ -127,7 +127,7 @@ My primary research interests are in machine learning and computer vision. More 
                         M.Sc. Thesis, 2013
                         </p>
                         </td>
-                        </tr>
+		</tr>
 		<tr>
                         <td>
                         <h6 style="margin-top:6pt">
