@@ -62,7 +62,9 @@ My primary research interests are in machine learning and computer vision. More 
 <br>
 <div>
 	<header><h2>Publications</h2></header>
-	<table style="width: 100%;">
+	For the latest, please see <a href="https://scholar.google.com/citations?user=bDpBQakAAAAJ"><img src="https://scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png" alt="Google Scholar" height="24"></a>
+	<br></br>
+	<table style="width: 100%; padding: 0px">
 		<tr>
 			<td>
 			<h6 style="margin-top:6pt">
@@ -80,9 +82,9 @@ My primary research interests are in machine learning and computer vision. More 
 		<tr>
 			<td>
 			<h6 style="margin-top:6pt">
-			<a href="papers/fen_icira12.pdf"><img src="images/pdf.png" alt=""  width="24" height ="24"></a>
-			<a href="papers/fen_icira12.bib"> <img src="images/BibTex.png" alt="bibtex"  width="36" height ="18"></a>
+			<a href="https://link.springer.com/chapter/10.1007/978-3-642-33503-7_49">
 			Robust Recognition against Illumination Variations based on SIFT
+			</a>
 			</h6>
 			<p style="font-size:80%; line-height:120%">
 			<strong>Farzan Erlik Nowruzi</strong>, M.A. Balafar, S. Pashazadeh
