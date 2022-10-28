@@ -57,7 +57,6 @@ My primary research interests are in machine learning and computer vision. More 
 		</tr>
 	</table>
 </div>
-</section>
 
 <section id="Publications">
 <br>
@@ -67,9 +66,9 @@ My primary research interests are in machine learning and computer vision. More 
 		<tr>
 			<td>
 			<h6 style="margin-top:6pt">
-			<a href="papers/fen_iccv17wgdl.pdf"><img src="images/pdf.png" alt=""  width="24" height ="24"></a>
-			<a href="papers/fen_iccv17wgdl.bib"> <img src="images/BibTex.png" alt="bibtex"  width="36" height ="18"></a>
+			<a href="https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.pdf">
 			Homography Estimation from Image Pairs with Hierarchical Convolutional Networks
+			</a>
 			</h6>
 			<p style="font-size:80%; line-height:120%">
 			<strong>Farzan Erlik Nowruzi</strong>, R. Laganiere, N. Japkowicz
