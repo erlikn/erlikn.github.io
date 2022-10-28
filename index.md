@@ -63,15 +63,14 @@ My primary research interests are in machine learning and computer vision. More 
 <div>
 	<header><h2>Publications</h2></header>
 	For the latest, please see <a href="https://scholar.google.com/citations?user=bDpBQakAAAAJ"><img src="https://scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png" alt="Google Scholar" height="24"></a>
-	<br></br>
+	<br>
 	<table style="width: 100%; padding: 0px">
 		<tr>
 			<td>
-			<h6 style="margin-top:6pt">
+			<strong>
 			<a href="https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.pdf">
 			Homography Estimation from Image Pairs with Hierarchical Convolutional Networks
 			</a>
-			</h6>
 			<p style="font-size:80%; line-height:120%">
 			<strong>Farzan Erlik Nowruzi</strong>, R. Laganiere, N. Japkowicz
 			<br>
@@ -81,11 +80,10 @@ My primary research interests are in machine learning and computer vision. More 
 		</tr>
 		<tr>
 			<td>
-			<h6 style="margin-top:6pt">
+			<strong>
 			<a href="https://link.springer.com/chapter/10.1007/978-3-642-33503-7_49">
 			Robust Recognition against Illumination Variations based on SIFT
 			</a>
-			</h6>
 			<p style="font-size:80%; line-height:120%">
 			<strong>Farzan Erlik Nowruzi</strong>, M.A. Balafar, S. Pashazadeh
 			<br>
@@ -95,11 +93,10 @@ My primary research interests are in machine learning and computer vision. More 
 		</tr>
 		<tr>
                 	<td>
-                        <h6 style="margin-top:6pt">
+			<strong>
                         <!--a href=""><img src="images/pdf.png" alt=""  width="24" height ="24"></a>
                         <a href=""> <img src="images/BibTex.png" alt="bibtex"  width="36" height ="18"></a-->
                         Autonomous Vehicle Localization with Gated RANSAC on Static Gridmap based Pose Graph
-                        </h6>
                         <p style="font-size:80%; line-height:120%">
                         TechReport 2016 @ MBRDNA
                         </p>
@@ -107,11 +104,10 @@ My primary research interests are in machine learning and computer vision. More 
 		</tr>
 		<tr>
                         <td>
-                        <h6 style="margin-top:6pt">
+			<strong>
                         <!--a href=""><img src="images/pdf.png" alt=""  width="24" height ="24"></a>
                         <a href=""> <img src="images/BibTex.png" alt="bibtex"  width="36" height ="18"></a-->
                         Adaptive Nearest Neighbor for Data Condensation and Improved Classification
-                        </h6>
                         <p style="font-size:80%; line-height:120%">
                         TechReport 2016 @ uOttawa
                         </p>
@@ -119,11 +115,10 @@ My primary research interests are in machine learning and computer vision. More 
 		</tr>
 		<tr>
                 	<td>
-                        <h6 style="margin-top:6pt">
+			<strong>
                         <!--a href=""><img src="images/pdf.png" alt=""  width="24" height ="24"></a>
                         <a href=""> <img src="images/BibTex.png" alt="bibtex"  width="36" height ="18"></a-->
                         Face Recognition under Different Illumination Variations
-                        </h6>
                         <p style="font-size:80%; line-height:120%">
                         M.Sc. Thesis, 2013
                         </p>
@@ -131,11 +126,10 @@ My primary research interests are in machine learning and computer vision. More 
 		</tr>
 		<tr>
                         <td>
-                        <h6 style="margin-top:6pt">
+			<strong>
                         <!--a href=""><img src="images/pdf.png" alt=""  width="24" height ="24"></a>
                         <a href=""> <img src="images/BibTex.png" alt="bibtex"  width="36" height ="18"></a-->
                         Object Recognition using SIFT for @Home Robots
-                        </h6>
                         <p style="font-size:80%; line-height:120%">
                         B.Sc. Thesis, 2010
                         </p>
